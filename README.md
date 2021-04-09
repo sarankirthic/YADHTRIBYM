@@ -2,7 +2,7 @@
 
 ## Hi Guys, Welcome to The SPSK Address Challenge
 
-My address and other informations required for my birthday is stroed in the text file in this repo.
+My address and other informations required for my birthday is stored in the above text file.
 
 ### The file is encrypted.
 
