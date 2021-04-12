@@ -1,21 +1,21 @@
 # YAD HTRIB YM
 
-## Hi Guys, Welcome to The SPSK Address Challenge
+##  egnellahC sserddA KSPS ehT ot emocleW ,syuG iH
 
-My address and other informations required for my birthday is stored in the above text file.
+.elif txet evoba eht ni derots si yadhtrib ym rof deriuqer snoitamrofni rehto dna sserdda yM
 
-### The file is encrypted.
+### .detpyrcne si elif ehT
 
-To access the contents in the file, you must decrypt the file.
-The file is a hex dump of a file that has been repeatedly compressed and is base64 encoded data.
+.elif eht tpyrced tsum uoy ,elif eht ni stnetnoc eht ssecca oT
+.atad dedocne 46esab si dna desserpmoc yldetaeper neeb sah taht elif a fo pmud xeh a si elif ehT
 
-## Commands Required
-base64, tar, gzip, bzip2, file, xxd
+## deriuqeR sdnammoC
+dxx ,elif ,2pizb ,pizg ,rat ,46esab
 
-## Hint 
-Dont think too hard its easy.
+## tniH 
+.ysae sti drah oot kniht tnoD
 
-#### For more help contact me.
+#### .em tcatnoc pleh erom roF
 
-### For More Challenges like this Visit 
-**overthewire.com**
+###  tisiV siht ekil segnellahC eroM roF
+**moc.eriwehtrevo**
