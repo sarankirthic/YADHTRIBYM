@@ -94,7 +94,37 @@ All the information about me is available on the file.
 #
 #
 #
-# Limitations
-If you can't forget about contacting me.
-
-### You came so far down, but you cant find anything here (its on the file).
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+###### You came so far down, but you cant find anything here (its on the file).
